@@ -1,0 +1,15 @@
+[submodule "Store_Management"]
+	path = Store_Management
+	url = https://github.com/JohnGR025/Store_Management
+[submodule "Blind_Image_Editor"]
+	path = Blind_Image_Editor
+	url = https://github.com/JohnGR025/Blind_Image_Editor
+[submodule "Pacman_in_C"]
+	path = Pacman_in_C
+	url = https://github.com/JohnGR025/Pacman_in_C
+[submodule "Acrostixida"]
+	path = Acrostixida
+	url = https://github.com/JohnGR025/Acrostixida
+[submodule "Hero-Quest"]
+	path = Hero-Quest
+	url = https://github.com/JohnGR025/Hero-Quest
